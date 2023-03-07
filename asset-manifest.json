@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prostoweb/static/css/main.6d73602e.css",
+    "main.js": "/prostoweb/static/js/main.ee5678be.js",
+    "index.html": "/prostoweb/index.html",
+    "main.6d73602e.css.map": "/prostoweb/static/css/main.6d73602e.css.map",
+    "main.ee5678be.js.map": "/prostoweb/static/js/main.ee5678be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d73602e.css",
+    "static/js/main.ee5678be.js"
+  ]
+}
